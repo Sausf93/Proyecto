@@ -1,12 +1,9 @@
 <?php
 class DataSource {
     private $host = "localhost";
-    // private $db = "id13243509_jsgame";
-    // private $user = "id13243509_saulo";
-    // private $password = "H>i5B{3O~zwq-xdj";
-        private $db = "jsgame";
-        private $user = "root";
-        private $password = "";
+        private $db = "id20581382_jsgame";
+        private $user = "id20581382_saulo";
+        private $password = "SK[Uax^\/Zb499r@";
     private $dbh;
     /**
     * Método getter que devuelve el atributo dbh
